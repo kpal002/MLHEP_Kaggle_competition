@@ -6,5 +6,5 @@ The competition links can be found at
 1. https://www.kaggle.com/c/mlhep2021-classification
 2. https://www.kaggle.com/c/mlhep-2021-competition-2/
 
-The datafiles are included in HD5 format.
+The data available were grayscale images of size 576 X 576 which were converted to numpy arrays and stored in HD5 format.
 
